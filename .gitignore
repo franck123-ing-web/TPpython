@@ -1,0 +1,13 @@
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Fichiers secrets / clés SSH
+*.pub
+*.pem
+*.key
+Incroyable
+
+# Fichiers système Windows
+Thumbs.db
+.DS_Store
